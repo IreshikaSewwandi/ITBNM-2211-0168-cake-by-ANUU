@@ -1,0 +1,14 @@
+   /-----------------------Hi to deploye the chat bot-----------------/
+
+1. frist you have to make sure you apache server and php is running, checking the xampp.
+2. after that you have import the given wedlux database to your device.
+3. then you have put PHPBOT 3 folder to htdocs which in xampp folder which in your devices.
+4. then got to web browncer and type localhost and open localhost/PHPBOT 3/
+5. you will get all the js, php, html, and css files of the bot.
+6. open the html file.
+7. make sure to put massages as the user, only in database bot_Utext exact same coloume data.
+8. if you enter input that not in the database bot will ask "what!".
+
+
+
+thank you.....! Have fun .....!   

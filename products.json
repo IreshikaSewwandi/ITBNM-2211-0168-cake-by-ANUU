@@ -1,0 +1,215 @@
+[
+    {
+        "id": 1,
+        "name":" Birthday Cake",
+        "price": 3750.00,
+        "image": "image/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Birthday Cake",
+        "price": 2500.00,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Birthday Cake",
+        "price": 1900.00,
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Birthday Cake",
+        "price": 2000.00,
+        "image": "image/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Love Cake",
+        "price": 3500,
+        "image": "image/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Vanilla Cake",
+        "price": 2100,
+        "image": "image/6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Birthday Cake",
+        "price": 2650,
+        "image": "image/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Rainbow Cake",
+        "price": 4500,
+        "image": "image/8.jpg"
+    },
+    {
+        "id": 9,
+        "name":" Birthday Cake",
+        "price": 2500.00,
+        "image": "image/9.jpg"
+    },
+    {
+        "id": 10,
+        "name":" Istoberry Cake",
+        "price": 4250,
+        "image": "image/10.jpg"
+    },
+    {
+        "id": 11,
+        "name":" Vanilla Cake",
+        "price": 4450,
+        "image": "image/11.jpg"
+    },
+    {
+        "id": 12,
+        "name":" Love Cake",
+        "price": 3200,
+        "image": "image/12.jpg"
+    },
+    {
+        "id": 13,
+        "name":" Chocolate Cake ",
+        "price": 300,
+        "image": "image/13.jpg"
+    },
+    {
+        "id": 14,
+        "name":" Birthday Cake",
+        "price": 3750,
+        "image": "image/14.jpg"
+    },
+    {
+        "id": 15,
+        "name":" Birthday Cake",
+        "price": 4200,
+        "image": "image/15.jpg"
+    },
+    {
+        "id": 16,
+        "name":" Chocolate Cake  ",
+        "price": 4000,
+        "image": "image/16.jpg"
+    },
+    {
+        "id": 17,
+        "name":" Cup Cake",
+        "price": 3500.00,
+        "image": "image/18.jpg"
+    },
+    {
+        "id": 18,
+        "name":" Wedding Cake",
+        "price": 12500,
+        "image": "image/17.jpg"
+    },
+    {
+        "id": 19,
+        "name":" Chocolate Cake ",
+        "price": 2900,
+        "image": "image/19.jpg"
+    },
+    {
+        "id": 20,
+        "name":" Wedding Cake",
+        "price": 8000,
+        "image": "image/20.jpg"
+    },
+    {
+        "id": 21,
+        "name":" Cup Cake",
+        "price": 3000,
+        "image": "image/21.jpg"
+    },
+    {
+        "id": 22,
+        "name":" Cup Cake",
+        "price": 1200,
+        "image": "image/22.jpg"
+    },
+    {
+        "id": 23,
+        "name":" Rainbow Cake",
+        "price": 6200,
+        "image": "image/23.jpg"
+    },
+    {
+        "id": 24,
+        "name":" Love Cake",
+        "price": 200,
+        "image": "image/24.jpg"
+    },
+    {
+        "id": 25,
+        "name":" Love Cake",
+        "price": 2500.00,
+        "image": "image/25.jpg"
+    },
+    {
+        "id": 26,
+        "name":" Chocolate Cake  ",
+        "price": 3250,
+        "image": "image/26.jpg"
+    },
+    {
+        "id": 27,
+        "name":" Vanilla Cake",
+        "price": 2290,
+        "image": "image/40.jpg"
+    },
+    {
+        "id": 28,
+        "name":" Birthday Cake",
+        "price": 5200,
+        "image": "image/28.jpg"
+    },
+    {
+        "id": 29,
+        "name":" Istoberry Cake",
+        "price": 13500,
+        "image": "image/29.jpg"
+    },
+    {
+        "id": 56,
+        "name":" Celebration Cake",
+        "price": 4200,
+        "image": "image/30.jpg"
+    },
+    {
+        "id": 31,
+        "name":" Celebration Cake ",
+        "price": 7700,
+        "image": "image/31.jpg"
+    },
+    {
+        "id": 70,
+        "name":" Birthday Cake",
+        "price": 5200,
+        "image": "image/32.jpg"
+    },
+    {
+        "id": 33,
+        "name":" Love Cake",
+        "price": 4275,
+        "image": "image/33.jpg"
+    },
+    {
+        "id": 34,
+        "name":" Celebration Cake",
+        "price": 200,
+        "image": "image/34.jpg"
+    },
+    {
+        "id": 37,
+        "name":" Rainbow Cake",
+        "price": 4800,
+        "image": "image/35.jpg"
+    }
+
+
+]
+

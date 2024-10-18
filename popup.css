@@ -1,0 +1,235 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
+
+* {
+    font-family: Open Sans;
+    margin: 0;
+    padding: 0;
+}
+
+/* --------------chat bot-------------- */
+
+/* pop-up icon */
+.chatbot_link img {
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 30px;
+    width: 200px;
+    display: flex;
+} 
+
+/* Chat button */
+.chat-btn img {
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 30px;
+    width: 200px;
+}
+
+.chat-form {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    z-index: 9;
+    border-radius: 10px;
+}
+
+/* Cancel button */
+.btn-cancel img {
+    width: 20px;
+    height: 20px;
+}
+
+/* Chat bot container */
+.bot_container {
+    width: 530px;
+    height: 650px;
+    background-color: #3F2A3c;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.bot_media_body h5 {
+    font-size: 20px;
+    margin-left: 130px;
+    margin-top: -10%;
+}
+
+.bot_media_body span {
+    margin-left: 120px;   
+}
+
+.bot_container .bot_media img {
+    margin-left: 10px;
+    width: 180px;
+    padding-top: 30px;
+}
+
+/* Message container */
+.maseg_container {
+    margin-top: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    height: 320px;
+    background-color: antiquewhite;
+    overflow: auto;
+}
+
+/* Chat messages */
+.botM {
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+}
+.botM span {
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.UserM {
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+}
+.UserM span {
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+/* Input and buttons */
+.input-group-append button {
+    background-color: blueviolet;
+    border-color: rgb(162, 84, 236);
+    margin-top: 5px;
+}
+
+.input-group input {
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 340px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 1200px) {
+    .bot_container {
+        width: 500px;
+        height: 650px;
+    }
+
+    .chat-btn img {
+        width: 200px;
+        bottom: 20px;
+        right: 20px;
+    }
+
+    .bot_container .bot_media img {
+        width: 160px;
+    }
+    
+    .maseg_container {
+        height: 270px;
+    }
+
+    .input-group input {
+        width: 270px;
+    }
+    
+    .bot_media_body h5 {
+        font-size: 18px;
+        margin-left: 100px;
+    }
+
+    .bot_media_body span {
+        margin-left: 80px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .bot_container {
+        width: 400px;
+        height: 550px;
+    }
+
+    .chat-btn img {
+        width: 160px;
+        bottom: 15px;
+        right: 15px;
+    }
+
+    .bot_media_body h5 {
+        font-size: 15px;
+        margin-left: 80px;
+    }
+
+    .bot_media_body span {
+        margin-left: 50px;
+    }
+
+    .bot_container .bot_media img {
+        width: 110px;
+    }
+
+    .maseg_container {
+        height: 230px;
+    }
+
+    .input-group input {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .bot_container {
+        width: 100%;
+        height: 500px;
+        right: 0;
+        left: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .chat-btn img {
+        width: 120px;
+        bottom: 10px;
+        right: 10px;
+    }
+
+    .bot_media_body h5 {
+        font-size: 16px;
+        margin-left: 80px;
+    }
+
+    .bot_media_body span {
+        margin-left: 100px;
+    }
+
+    .bot_container .bot_media img {
+        width: 100px;
+    }
+
+    .maseg_container {
+        height: 250px;
+    }
+
+    .input-group input {
+        width: 250px;
+    }
+
+    .input-group-append button {
+        padding: 5px;
+    }
+}
